@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/STELSv1/backend-course-2025-3/issues"
   },
-  "homepage": "https://github.com/STELSv1/backend-course-2025-3#readme"
+  "homepage": "https://github.com/STELSv1/backend-course-2025-3#readme",
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
 }
